@@ -44,12 +44,13 @@ python eval.py
 ## Citation
 If you find this project useful, please consider citing:
 ```
-@article{shen2025adaptive,
+@article{shen2026adaptive,
   title={Adaptive Mix for Semi-Supervised Medical Image Segmentation},
   author={Shen, Zhiqiang and Cao, Peng and Su, Junming and Yang, Jinzhu and Zaiane, Osmar R},
   journal = {Medical Image Analysis},
+  volume = {108},
   pages = {103857},
-  year = {2025},
+  year = {2026},
   doi = {https://doi.org/10.1016/j.media.2025.103857}
 }
 ```
